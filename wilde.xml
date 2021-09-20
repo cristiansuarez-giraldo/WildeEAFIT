@@ -24,15 +24,15 @@
                 <name></name>
             </respStmt>      
         </titleStmt>
-         <publicationStmt>
-            <publisher></publisher>
-            <pubPlace></pubPlace>
-            <date></date>
-        <availability status="free">
-        <licence target="https://creativecommons.org/licenses/by-nc-sa/4.0/"> Distribuida bajo
-        Licencia Creative Commons Atribución-NoComercial-CompartirIgual 4.0 Internacional (CC BY-NC-SA 4.0)</licence>
-        </availability>
-        </publicationStmt>
+            <publicationStmt>
+                <publisher></publisher>
+                <pubPlace></pubPlace>
+                <date></date>
+            <availability status="free">
+                <licence target="https://creativecommons.org/licenses/by-nc-sa/4.0/"> Distribuida bajo
+                Licencia Creative Commons Atribución-NoComercial-CompartirIgual 4.0 Internacional (CC BY-NC-SA 4.0)</licence>
+            </availability>
+            </publicationStmt>
         <sourceDesc>
             <bibl>
                 <title>Trad. de Wilde</title>
