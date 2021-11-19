@@ -1,61 +1,64 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
-<TEI>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
 <teiHeader>
-    <fileDesc>
-        <titleStmt>
-                <title>a</title>
-                <author></author>
-            <respStmt>
-                <resp></resp>
-                <name></name>
-            </respStmt>
-            <respStmt>
-                <resp></resp>
-                <name></name>
-            </respStmt>
-            <respStmt>
-                <resp></resp>
-                <name></name>
-            </respStmt>
-            <respStmt>
-                <resp></resp>
-                <name></name>
-            </respStmt>      
-        </titleStmt>
+        <fileDesc>
+            <titleStmt>
+                <title>Poemas en prosa</title>
+                <author>Oscar Wilde</author>
+                <respStmt>
+                    <resp>Traducción</resp>
+                    <name>Semillero de Poética y traducción</name>
+                </respStmt>
+                <respStmt>
+                    <resp>Codificación y transcripción digital</resp>
+                    <name>Semillero de Poética y traducción</name>
+                </respStmt>
+                <respStmt>
+                    <resp>Modelación de datos</resp>
+                    <name>Cristian Suárez-Giraldo</name>
+                </respStmt>
+                <respStmt>
+                    <resp>Revisión de texto</resp>
+                    <name>Yenny Correa León</name>
+                </respStmt>
+            </titleStmt>
             <publicationStmt>
-                <publisher></publisher>
-                <pubPlace></pubPlace>
-                <date></date>
-            <availability status="free">
-                <licence target="https://creativecommons.org/licenses/by-nc-sa/4.0/"> Distribuida bajo
-                Licencia Creative Commons Atribución-NoComercial-CompartirIgual 4.0 Internacional (CC BY-NC-SA 4.0)</licence>
-            </availability>
+                <publisher>Universidad EAFIT</publisher>
+                <pubPlace>Medellín</pubPlace>
+                <date>2021</date>
+                <availability status="restricted">
+                    <licence target="https://creativecommons.org/licenses/by-nc-sa/4.0/">
+                        Distribuida bajo Licencia Creative Commons
+                        Atribución-NoComercial-CompartirIgual 4.0 Internacional (CC BY-NC-SA
+                        4.0)</licence>
+                </availability>
             </publicationStmt>
-        <sourceDesc>
-            <bibl>
-                <title>Trad. de Wilde</title>
-                <textLang mainLang="sp"/>
-                <relatedItem type="translatedFrom">
-                    <bibl>
-                    <textLang mainLang="en"/><ref target="https://www.wilde-online.info/poems-in-prose.html">Poems in Prose</ref>
-                    </bibl>
-                </relatedItem>                                          
-            </bibl>
-        </sourceDesc>
-    </fileDesc>
-  </teiHeader>
+            <sourceDesc>
+                <bibl>
+                    <title/>
+                    <textLang mainLang="es" otherLangs="pt"/>
+                    <relatedItem type="translatedFrom">
+                        <bibl>
+                            <textLang mainLang="en"/>
+                            <ref target="https://www.wilde-online.info/poems-in-prose.html">Poems in Prose</ref>
+                        </bibl>
+                    </relatedItem>
+                </bibl>
+            </sourceDesc>
+        </fileDesc>
+</teiHeader>
 <document>
     <column mainLang="en">
         <head>The Master</head>
         <content>
             <p>Now when the darkness came over the earth <rs type="name" key="JOA2">Joseph of Arimathea</rs>, having lighted a torch of pinewood, passed down from the hill into the valley. For he had business in his own home.</p>
             <p class="indent-first">And kneeling on the flint stones of the <rs type="place" key="VOD2">Valley of Desolation</rs> he saw a young man who was naked and weeping. His hair was the colour of honey, and his body was as a white flower, but he had wounded his body with thorns and on his hair had he set ashes as a crown.</p>
-            <p class="indent-first">And he who had great possessions said to the young man who was naked and weeping, 'I do not wonder that your sorrow is so great, for surely He was a just man.'</p>
-            <p class="indent-first">And the young man answered, 'It is not for Him that I am weeping, but for myself. I too have changed water into wine, and I have healed the leper and given sight to the blind. I have walked upon the waters, and from the dwellers in the tombs I have cast out devils. I have fed the hungry in the desert where there was no food, and I have raised the dead from their narrow houses, and at my bidding, and before a great multitude, of people, a barren fig-tree withered away. All things that this man has done I have done also. And yet they have not crucified me.'</p>
+            <p class="indent-first">And he who had great possessions said to the young man who was naked and weeping, "I do not wonder that your sorrow is so great, for surely He was a just man".</p>
+            <p class="indent-first">And the young man answered, "It is not for Him that I am weeping, but for myself. I too have changed water into wine, and I have healed the leper and given sight to the blind. I have walked upon the waters, and from the dwellers in the tombs I have cast out devils. I have fed the hungry in the desert where there was no food, and I have raised the dead from their narrow houses, and at my bidding, and before a great multitude, of people, a barren fig-tree withered away. All things that this man has done I have done also. And yet they have not crucified me".</p>
         </content>
     </column>
-    <column mainLang="spa" translatedFrom="en">
+    <column mainLang="es" translatedFrom="en">
         <head>El maestro</head>
         <content>
             <p>Entonces cuando las tinieblas se habían ceñido sobre la tierra, <rs type="name" key="JOA2">José de Arimatea</rs>, encendiendo una antorcha de pino, bajó de la colina hasta el valle. Pues tenía asuntos en su propia casa.</p>
@@ -64,7 +67,7 @@
             <p class="indent-first">Y el muchacho le respondió: “No es por Él que estoy llorando, sino por mí. Yo también transformé el agua en vino, yo también curé a los leprosos y les di la vista a los ciegos. Caminé sobre las aguas, y de los que habitan en las tumbas expulsé demonios. Alimenté a los hambrientos en el desierto, donde no había comida, y levanté a los muertos de sus estrechas moradas, y bajo mis órdenes, y ante una gran multitud de gente, una higuera estéril se marchitó. Todas las cosas que hizo ese hombre yo también las hice. Y, aun así, a mí no me han crucificado".</p>
         </content>
     </column>
-    <column>
+    <column mainLang="pt" translatedFrom="en">
         <head>O mestre</head>
         <content>
             <p>Ora quando as sombras cahiam sobre a terra, <rs type="name" key="JOA2">José de Arimathéa</rs>, tendo accendido um archote de pinho, desceu do monte para o valle. Porque tinha de que tratar em sua casa.</p>
@@ -73,7 +76,7 @@
             <p class="indent-first">E o jovem respondeu: Não é por Elle que eu choro mas por mim. Eu tambem mudei agua em vinho, e curei o leproso, e dei vista ao cego. Andei sobre as aguas e dos que moram nos tumulos mandei sahir os demonios. Alimentei os famintos no deserto onde não havia alimento, e levantei os mortos das suas casas estreitas, e deante de uma grande multidão uma figueira esteril seccou. Tudo o que este homem fez, fiz eu tambem. E a mim não me crucificaram.</p>
         </content>
     </column>
-    <column>
+    <column mainLang="es" translatedFrom="pt">
         <head>El maestro</head>
         <content>
             <p>Entonces cuando las sombras caían sobre la tierra, <rs type="name" key="JOA2">José de Arimatea</rs>, habiendo encendido una antorcha de pino, descendió del monte hacia el valle. Porque tenía de que encargarse en su casa.</p>
