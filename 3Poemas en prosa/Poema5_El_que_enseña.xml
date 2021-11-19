@@ -1,4 +1,53 @@
 <?xml version="1.0" encoding="UTF-8"?>
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Poemas en prosa</title>
+                <author>Oscar Wilde</author>
+                <respStmt>
+                    <resp>Traducción</resp>
+                    <name>Semillero de Poética y traducción</name>
+                </respStmt>
+                <respStmt>
+                    <resp>Codificación y transcripción digital</resp>
+                    <name>Semillero de Poética y traducción</name>
+                </respStmt>
+                <respStmt>
+                    <resp>Modelación de datos y codificación</resp>
+                    <name>Cristian Suárez-Giraldo</name>
+                </respStmt>
+                <respStmt>
+                    <resp>Revisión de texto</resp>
+                    <name>Yenny Correa León</name>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>Universidad EAFIT</publisher>
+                <pubPlace>Medellín</pubPlace>
+                <date>2021</date>
+                <availability status="restricted">
+                    <licence target="https://creativecommons.org/licenses/by-nc-sa/4.0/">
+                        Distribuida bajo Licencia Creative Commons
+                        Atribución-NoComercial-CompartirIgual 4.0 Internacional (CC BY-NC-SA
+                        4.0)</licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>
+                    <title/>
+                    <textLang mainLang="es" otherLangs="pt"/>
+                    <relatedItem type="translatedFrom">
+                        <bibl>
+                            <textLang mainLang="en"/>
+                            <ref target="https://www.wilde-online.info/poems-in-prose.html">Poems in Prose</ref>
+                        </bibl>
+                    </relatedItem>
+                </bibl>
+            </sourceDesc>
+        </fileDesc>
+</teiHeader>
 <document>
     <column>
         <head>The Teacher of Wisdom</head>
@@ -71,70 +120,21 @@
             <p class="indent-first">Y el Eremita le respondió diciendo: “Lo que ves en mis ojos es compasión. Es la compasión que desde mis ojos te mira”.</p>
             <p class="indent-first">Y el joven rio con desprecio, y gritándole al Eremita, con voz amarga, le dijo: “Yo tengo telas de color púrpura y perlas en mis manos, y tú no tienes sino una estera de ramas sobre la cual acostarte. ¿Qué compasión podrías sentir tú de mí? ¿Y por qué razón sentirías tú esa compasión?”.</p>
             <p class="indent-first">“Yo siento compasión de ti”, dijo el Eremita, “porque tú no tienes ningún conocimiento de <rs type="name" key="GOD3">Dios</rs>”.</p>
-            <p class="indent-first">"Is this knowledge of <rs type="name" key="GOD3">God</rs> a precious thing?" asked the young man, and he came close to the mouth of the cavern.</p>
-            <p class="indent-first">"It is more precious than all the purple and the pearls of the world", answered the Hermit.</p>
-            <p class="indent-first">"And have you got it?" said the young Robber, and he came closer still.</p>
-            <p class="indent-first">"Once, indeed", answered the Hermit, "I possessed the perfect knowledge of <rs type="name" key="GOD3">God</rs>. But in my foolishness I parted with it, and divided it amongst others. Yet even now is such knowledge as remains to me more precious than purple or pearls".</p>
-            <p class="indent-first">And when the young Robber heard this he threw away the purple and the pearls that he was bearing in his hands, and drawing a sharp sword of curved steel he said to the Hermit, "Give me, forthwith this knowledge of <rs type="name" key="GOD3">God</rs> that you possess, or I will surely slay you. Wherefore should I not slay him who has a treasure greater than my treasure?".</p>
-            <p class="indent-first">And the Hermit spread out his arms and said, "Were it not better for me to go unto the uttermost courts of <rs type="name" key="GOD3">God</rs> and praise Him, than to live in the world and have no knowledge of Him? Slay me if that be your desire. But I will not give away my knowledge of <rs type="name" key="GOD3">God</rs>".</p>
-            <p class="indent-first">And the young Robber knelt down and besought him, but the Hermit would not talk to him about <rs type="name" key="GOD3">God</rs>, nor give him his Treasure, and the young Robber rose up and said to the Hermit, "Be it as you will. As for myself, I will go to the City of the Seven Sins, that is but three days journey from this place, and for my purple they will give me pleasure, and for my pearls they will sell me joy". And he took up the purple and the pearls and went swiftly away.</p>
-            <p class="indent-first">And the Hermit cried out and followed him and besought him. For the space of three days he followed the young Robber on the road and entreated him to return, nor to enter into the City of the Seven Sins.</p>
-            <p class="indent-first">And ever and anon the young Robber looked back at the Hermit and called to him, and said, "Will you give me this knowledge of <rs type="name" key="GOD3">God</rs> which is more precious than purple and pearls? If you will give me that, I will not enter the city".</p>
-            <p class="indent-first">And ever did the Hermit answer, “All things that I have I will give thee, save that one thing only. For that thing it is not lawful for me to give away”.</p>
-            <p class="indent-first">And in the twilight of the third day they came nigh to the great scarlet gates of the City of the Seven Sins. And from the city there came the sound of much laughter.</p>
-            <p class="indent-first">And the young Robber laughed in answer, and sought to knock at the gate. And as he did so the Hermit ran forward and caught him by the skirts of his raiment, and said to him: "Stretch forth your hands, and set your arms around my neck, and put your ear close to my lips, and I will give you what remains to me of the knowledge of <rs type="name" key="GOD3">God</rs>". And the young Robber stopped.</p>
-            <p class="indent-first">And when the Hermit had given away his knowledge of <rs type="name" key="GOD3">God</rs>, he fell upon the ground and wept, and a great darkness hid from him the city and the young Robber, so that he saw them no more.</p>
-            <p class="indent-first">And as he lay there weeping he was ware of One who was standing beside him; and He who was standing beside him had feet of brass and hair like fine wool. And He raised the Hermit up, and said to him: "Before this time thou hadst the perfect knowledge of <rs type="name" key="GOD3">God</rs>. Now thou shalt have the perfect love of <rs type="name" key="GOD3">God</rs>. Wherefore art thou weeping?". And he kissed him.</p>
-        </content>
-    </column>
-    <column>
-        <head>A casa de juízo</head>
-        <content>
-            <p>E havia silencio na Casa de Juizo e o Homem apareceu nu ante <rs type="name" key="GOD3">Deus</rs>.</p>
-            <p class="indent-first">E <rs type="name" key="GOD3">Deus</rs> abriu o Livro da Vida do Homem.</p>
-            <p class="indent-first">E <rs type="name" key="GOD3">Deus</rs> disse ao Homem: “A tua vida tem sido [↑ foi] má, e mostraste crueldade aos que precisavam socorro e aos [↑ para os] que precisavam auxílio foste amargo e duro de coração. Os pobres chamaram por ti e tu não ouviste, e os teus ouvidos estavam cerrados contra [↑ ao] grito dos Meus aflitos. Tiraste para ti a herança do orfão e fizeste entrar raposas na vinha do quintal do teu proximo [↑ vizinho]. Tiraste o pão das crianças e deste-o a comer aos cães, e aos Meus leprosos que viviam nos pantanos e tinham paz e Me louvavam, tu os expulsaste para as estradas /reaes/ e sobre a Minha terra de que eu te fiz derramaste sangue inocente".</p>
-            <p class="indent-first">E o Homem respondeu e disse: “Tudo isso eu fiz”.</p>
-            <p class="indent-first">E outra vez <rs type="name" key="GOD3">Deus</rs> abriu o Livro da Vida do Homem.</p>
-            <p class="indent-first">E <rs type="name" key="GOD3">Deus</rs> disse ao Homem: “A tua vida foi má, e a Belleza que te amostrei [↑ mostrei] buscaste e ao Bom que eu escondi passaste por elle desprezando-o. Os muros do teu /quarto/ eram pintados com imagens e do leito das tuas abominações te levantavas ao som de flautas. Levantaste 7 altares aos pecados que eu /permiti/ e comeste do que não devias ter comido, e a purpura das tuas vestes tinha bordados os 3 sinais de vergonha. Os teus ídolos não eram nem de ouro nem de prata que duram, mas de carne que perece. Manchaste-lhes os cabellos com perfume e puseste romãs nas suas mãos. Manchaste-lhes os pés com açafrão e estendeste tapetes ante elles. Com antinomia lhes tingiste as palpebras e os corpos ungiste de myrrha. Ante elles te inclinaste até o chão e os thronos dos teus ídolos estavam postos ao sol. Mostraste ao sol a tua vergonha e à lua a tua loucura.”</p>
-            <p class="indent-first">E o Homem respondeu e disse: “Tudo isso eu fiz.”</p>
-            <p class="indent-first">E por [↑ pela] terceira vez <rs type="name" key="GOD3">Deus</rs> abriu o Livro da Vida do Homem.</p>
-            <p class="indent-first">E <rs type="name" key="GOD3">Deus</rs> disse ao Homem: “Má /fora/[↑ /foi/] a tua vida, e com o mal pagaste o bom e com maldade a doçura. Às mãos que te alimentaram feriste e aos seios que te amamentaram desprezaste. O que veio para ti com agua foi de ti sedento e aos homens banidos que te esconderam de noite nas suas tendas traiste tu antes da madrugada. Ao teu inimigo que te poupou □ n’uma ambuscada, e ao amigo que andava contigo vendeste por um preço e aos que te trouxeram Amor deste em troca a Luxuria”.</p>
-            <p class="indent-first">E o Homem respondeu e disse: “Tudo isso eu fiz".</p>
-            <p class="indent-first">E <rs type="name" key="GOD3">Deus</rs> fechou o Livro da Vida do Homem e disse: "Por certo que te mandarei para o Inferno. Mesmo para o Inferno te mandarei.”</p>
-            <p class="indent-first">E o Homem gritou: “Não podes.”</p>
-            <p class="indent-first">E <rs type="name" key="GOD3">Deus</rs> disse ao Homem: “Por que não te posso eu mandar para o Inferno, e por que razão?”.</p>
-            <p class="indent-first">“Porque no Inferno tenho eu sempre vivido” respondeu o Homem.</p>
-            <p class="indent-first">E houve silencio na Casa de Juizo.</p>
-            <p class="indent-first">E depois de um tempo <rs type="name" key="GOD3">Deus</rs> fallou e disse ao Homem: “Visto que não te posso mandar para o Inferno, por certo que te mandarei para o Céu. Mesmo para o Céu te mandarei.”</p>
-            <p class="indent-first">E o Homem clamou: “Não podes.”</p>
-            <p class="indent-first">E <rs type="name" key="GOD3">Deus</rs> disse ao Homem: “Por que não te poderei eu mandar para o Céu, e por que razão?”</p>
-            <p class="indent-first">“Porque nunca e em nenhum lugar pude imaginal-o” respondeu o Homem.</p>
-            <p class="indent-first">E houve silencio na Casa de Juizo.</p>
-        </content>
-    </column>
-    <column>
-        <head>El tribunal</head>
-        <content>
-            <p>Y había silencio en El Tribunal y el Hombre apareció desnudo ante <rs type="name" key="GOD3">Dios</rs>.</p>
-            <p class="indent-first">Y <rs type="name" key="GOD3">Dios</rs> abrió el Libro de la Vida del Hombre.</p>
-            <p class="indent-first">Y <rs type="name" key="GOD3">Dios</rs> le dijo al Hombre: "Tu vida ha sido mala [↑ fue], y mostraste crueldad a los que necesitaban ayuda y con quienes [↑ a los que] pedían auxilio fuiste amargo y duro de corazón. Los pobres te llamaron y tú no escuchaste, y tus oídos se cerraron contra el [↑ al] grito de Mis afligidos. Tomaste la herencia del huérfano e hiciste entrar zorros a la viña del quintal de tu prójimo [↑ vecino]. Quitaste el pan a los niños y se los diste de comer a los perros, y a Mis leprosos que vivían en los pantanos y tenían paz y Me adoraban, tú los expulsaste hacia caminos /reales/ y sobre Mi tierra, de la que te hice, derramaste sangre inocente".</p>
-            <p class="indent-first">Y el Hombre respondió y dijo: "Todo eso hice".</p>
-            <p class="indent-first">Y <rs type="name" key="GOD3">Dios</rs> abrió otra vez el Libro de la Vida del Hombre.</p>
-            <p class="indent-first">Y <rs type="name" key="GOD3">Dios</rs> le dijo al Hombre: "Tu vida fue mala, y buscaste la Belleza que te mostré [demostré] y pasaste por el Bien que yo escondí, despreciándolo. Los muros de tu /cuarto/ estaban pintados con imágenes y te levantabas del lecho de tus abominaciones al son de flautas. Levantaste siete altares a los pecados que /permití/ y comiste de lo que no debías comer, y el púrpura de tus vestidos tenía bordadas las tres señales de la vergüenza. Tus ídolos no eran de oro ni de plata, que duran, sino de carne, que perece. Les manchaste los cabellos con perfume y pusiste granadas en sus manos. Les manchaste los pies con azafrán y extendiste tapetes ante ellos. Con antimonio teñiste sus párpados y ungiste los cuerpos de mirra.  Te inclinaste hasta el suelo ante ellos y sus tronos estaban puestos al sol. Mostraste al sol tu vergüenza y a la luna tu locura."</p>
-            <p class="indent-first">Y el Hombre respondió y dijo: "Todo eso hice".</p>
-            <p class="indent-first">Y por tercera vez <rs type="name" key="GOD3">Dios</rs> abrió el Libro de la Vida del Hombre.</p>
-            <p class="indent-first">Y <rs type="name" key="GOD3">Dios</rs> le dijo al Hombre: "Tu vida /fuera/ [↑ /fue/] mala, y con el mal pagaste el bien y con maldad la dulzura. Heriste las manos que te alimentaron y depreciaste los senos que te amamantaron. El que vino a ti con agua se fue sediento y a los exiliados que te escondieron durante la noche en sus tiendas traicionaste antes de la madrugada. Al enemigo que te perdonó le tendiste una emboscada, y al amigo que andaba contigo le pusiste un precio y a los que te trajeron Amor les diste a cambio Lujuria".</p>
-            <p class="indent-first">Y el Hombre respondió y dijo: "Todo eso hice".</p>
-            <p class="indent-first">Y <rs type="name" key="GOD3">Dios</rs> cerró el Libro de la Vida del Hombre y dijo: "He de enviarte al Infierno. Justo al Infierno te enviaré".</p>
-            <p class="indent-first">Y el Hombre gritó: "No puedes".</p>
-            <p class="indent-first">Y <rs type="name" key="GOD3">Dios</rs> le dijo al Hombre: "¿Por qué no te puedo enviar al Infierno, y por qué motivo?"</p>
-            <p class="indent-first">"Porque he vivido siempre en el Infierno", respondió el Hombre.</p>
-            <p class="indent-first">Y hubo silencio en el Tribunal.</p>
-            <p class="indent-first">Y después de un tiempo <rs type="name" key="GOD3">Dios</rs> habló y le dijo al Hombre: "Dado que no te puedo enviar al Infierno, he de enviarte al Cielo. Justo al Cielo te mandaré".</p>
-            <p class="indent-first">Y el Hombre clamó: "No puedes".</p>
-            <p class="indent-first">Y <rs type="name" key="GOD3">Dios</rs> le dijo al Hombre: "¿Por qué no podré enviarte al Cielo, y por qué motivo?".</p>
-            <p class="indent-first">”>"Porque nunca ni en ningún lugar pude imaginarlo", respondió el Hombre.</p>
-            <p class="indent-first">Y hubo silencio en el Tribunal.</p>
+            <p class="indent-first">“¿Es acaso ese conocimiento de <rs type="name" key="GOD3">Dios</rs> una cosa preciosa?”, preguntó el joven, acercándose a la boca de la caverna.</p>
+            <p class="indent-first">“Es más precioso que todas las telas color púrpura y todas las perlas del mundo”, contestó el Eremita.</p>
+            <p class="indent-first">“¿Y tú lo tienes?”, preguntó el joven Ladrón y se acercó más todavía.</p>
+            <p class="indent-first">“Lo tuve, sí”, contestó el Eremita, “Yo poseí el perfecto conocimiento de <rs type="name" key="GOD3">Dios</rs>. Pero en mi estupidez me desprendí de él y lo compartí con otros. Y, sin embargo, el conocimiento que me queda sigue siendo para mí más precioso que las telas color púrpura o las perlas".</p>
+            <p class="indent-first">Y cuando el joven Ladrón oyó esto arrojó las telas color púrpura y las perlas que cargaba en sus manos y, desenfundando una afilada espada de acero doblado, dijo al Eremita: “Dame en este instante ese conocimiento de <rs type="name" key="GOD3">Dios</rs> que posees, o seguro te mataré. ¿Crees que no he de matar a quien tiene un tesoro mayor que el mío?”.</p>
+            <p class="indent-first">Y el Eremita extendió los brazos y dijo: “¿Crees que no sería mejor para mí ir a las más elevadas cortes de <rs type="name" key="GOD3">Dios</rs> y alabarlo, que vivir en este mundo sin tener ningún conocimiento de Él? Mátame si es eso es lo que deseas. Pero yo no entregaré mi conocimiento de <rs type="name" key="GOD3">Dios</rs>”.</p>
+            <p class="indent-first">Y el joven Ladrón se arrodilló suplicándole, pero el Eremita no quiso hablarle de <rs type="name" key="GOD3">Dios</rs>, ni entregarle su tesoro, y el joven ladrón se levantó y le dijo : “Sea como tú quieres. Por mi parte, iré a la Ciudad de los Siete Pecados, que queda tan solo a tres días de viaje desde aquí, y por mis telas color púrpura me darán placer, y por mis perlas me venderán alegría”. Y levantando las telas color púrpura y las perlas se marchó rápidamente.</p>
+            <p class="indent-first">Y el Eremita gritó, siguiéndolo y suplicándole. Durante tres días el Eremita siguió al joven Ladrón por la carretera intentando persuadirlo de que regresara y de que no entrase en la Ciudad de los Siete Pecados.</p>
+            <p class="indent-first">Y cada vez que el joven Ladrón volvía la mirada al Eremita, llamándolo, le decía: “¿Me darás el conocimiento de <rs type="name" key="GOD3">Dios</rs> que es más precioso que las telas color púrpura y las perlas? Si tú me lo das, yo no entraré en la ciudad".</p>
+            <p class="indent-first">Y cada vez el Eremita contestaba: “Todo lo que tengo te lo daré, salvo esa única cosa. Porque esa cosa no me es lícito entregarla”.</p>
+            <p class="indent-first">Y en el crepúsculo del tercer día se acercaron a las grandes puertas escarlata de la Ciudad de los Siete Pecados. Y desde adentro de la ciudad llegaba el ruido de muchas risas.</p>
+            <p class="indent-first">Y el joven Ladrón respondió riendo también, y se dispuso a tocar la puerta. Y mientras lo hacía, el Eremita corrió hasta él y lo agarró de las faldas de su túnica, y le dijo: “Extiende tus manos y abrázame por el cuello, y pon tu oído cerca a mis labios, y te daré lo que me queda del conocimiento de <rs type="name" key="GOD3">Dios</rs>”. Y el joven Ladrón se detuvo.</p>
+            <p class="indent-first">Y cuando el Eremita había entregado todo su conocimiento de <rs type="name" key="GOD3">Dios</rs>, cayó al suelo y lloró, y una densa oscuridad cubrió la ciudad y al Ladrón, para que él ya no pudiera verlos.</p>
+            <p class="indent-first">Y mientras estaba tendido y llorando, sintió la presencia de alguien que estaba de pie junto a él; y el que estaba de pie junto a él tenía los pies de cobre y sus cabellos eran finos como la lana. Y levantando al Eremita, le dijo: “Otrora tenías el conocimiento perfecto de <rs type="name" key="GOD3">Dios</rs>. Ahora tendrás el perfecto amor de <rs type="name" key="GOD3">Dios</rs>. ¿Por qué lloras entonces?”. Y lo besó.</p>
         </content>
     </column>
 </document>
+</TEI>

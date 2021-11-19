@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Poemas en prosa</title>
+                <author>Oscar Wilde</author>
+                <respStmt>
+                    <resp>Traducción</resp>
+                    <name>Semillero de Poética y traducción</name>
+                </respStmt>
+                <respStmt>
+                    <resp>Codificación y transcripción digital</resp>
+                    <name>Semillero de Poética y traducción</name>
+                </respStmt>
+                <respStmt>
+                    <resp>Modelación de datos y codificación</resp>
+                    <name>Cristian Suárez-Giraldo</name>
+                </respStmt>
+                <respStmt>
+                    <resp>Revisión de texto</resp>
+                    <name>Yenny Correa León</name>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>Universidad EAFIT</publisher>
+                <pubPlace>Medellín</pubPlace>
+                <date>2021</date>
+                <availability status="restricted">
+                    <licence target="https://creativecommons.org/licenses/by-nc-sa/4.0/">
+                        Distribuida bajo Licencia Creative Commons
+                        Atribución-NoComercial-CompartirIgual 4.0 Internacional (CC BY-NC-SA
+                        4.0)</licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>
+                    <title/>
+                    <textLang mainLang="es" otherLangs="pt"/>
+                    <relatedItem type="translatedFrom">
+                        <bibl>
+                            <textLang mainLang="en"/>
+                            <ref target="https://www.wilde-online.info/poems-in-prose.html">Poems in Prose</ref>
+                        </bibl>
+                    </relatedItem>
+                </bibl>
+            </sourceDesc>
+        </fileDesc>
+</teiHeader>
+<document>
+    <column mainLang="en">
+        <head>The Doer of Good</head>
+        <content>
+            <p>One evening there came into his soul the desire to fashion an image of <hi rend="italic">The Pleasure that Abideth for a Moment</hi>. And he went forth into the world to look for bronze. For he could think only in bronze.</p>
+            <p class="indent-first"></p>
+            <p class="indent-first"></p>
+            <p class="indent-first"></p>
+            <p class="indent-first"></p>
+            <p class="indent-first"></p>            
+        </content>
+    </column>
+    <column mainLang="es" translatedFrom="en">
+        <head>El que hace el bien</head>
+        <content>
+            <p>One evening there came into his soul the desire to fashion an image of <hi rend="italic">The Pleasure that Abideth for a Moment</hi>. And he went forth into the world to look for bronze. For he could think only in bronze.</p>
+            <p class="indent-first"></p>
+            <p class="indent-first"></p>
+            <p class="indent-first"></p>
+            <p class="indent-first"></p>
+            <p class="indent-first"></p>  
+        </content>
+    </column>
+</document>
+</TEI>

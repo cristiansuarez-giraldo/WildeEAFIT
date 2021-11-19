@@ -1,31 +1,80 @@
 <?xml version="1.0" encoding="UTF-8"?>
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Poemas en prosa</title>
+                <author>Oscar Wilde</author>
+                <respStmt>
+                    <resp>Traducción</resp>
+                    <name>Semillero de Poética y traducción</name>
+                </respStmt>
+                <respStmt>
+                    <resp>Codificación y transcripción digital</resp>
+                    <name>Semillero de Poética y traducción</name>
+                </respStmt>
+                <respStmt>
+                    <resp>Modelación de datos y codificación</resp>
+                    <name>Cristian Suárez-Giraldo</name>
+                </respStmt>
+                <respStmt>
+                    <resp>Revisión de texto</resp>
+                    <name>Yenny Correa León</name>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>Universidad EAFIT</publisher>
+                <pubPlace>Medellín</pubPlace>
+                <date>2021</date>
+                <availability status="restricted">
+                    <licence target="https://creativecommons.org/licenses/by-nc-sa/4.0/">
+                        Distribuida bajo Licencia Creative Commons
+                        Atribución-NoComercial-CompartirIgual 4.0 Internacional (CC BY-NC-SA
+                        4.0)</licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>
+                    <title/>
+                    <textLang mainLang="es" otherLangs="pt"/>
+                    <relatedItem type="translatedFrom">
+                        <bibl>
+                            <textLang mainLang="en"/>
+                            <ref target="https://www.wilde-online.info/poems-in-prose.html">Poems in Prose</ref>
+                        </bibl>
+                    </relatedItem>
+                </bibl>
+            </sourceDesc>
+        </fileDesc>
+</teiHeader>
 <document>
-    <column>
+    <column mainLang="en">
         <head>The House of Judgement</head>
         <content>
             <p>And there was silence in the House of Judgment, and the Man came naked before <rs type="name" key="GOD3">God</rs>.</p>
             <p class="indent-first">And <rs type="name" key="GOD3">God</rs> opened the Book of the Life of the Man.</p>
-            <p class="indent-first">And <rs type="name" key="GOD3">God</rs> said to the Man, 'Thy life hath been evil, and thou hast shown cruelty to those who were in need of succour, and to those who lacked help thou hast been bitter and hard of heart. The poor called to thee and thou didst not hearken, and thine ears were closed to the cry of My afflicted. The inheritance of the fatherless thou didst take unto thyself, and thou didst send the foxes into the vineyard of thy neighbour's field. Thou didst take the bread of the children and give it to the dogs to eat, and My lepers who lived in the marshes, and were at peace and praised Me, thou didst drive forth on to the highways, and on Mine earth out of which I made thee thou didst spill innocent blood.'</p>
-            <p class="indent-first">And the Man made answer and said, 'Even so did I.'</p>
+            <p class="indent-first">And <rs type="name" key="GOD3">God</rs> said to the Man, "Thy life hath been evil, and thou hast shown cruelty to those who were in need of succour, and to those who lacked help thou hast been bitter and hard of heart. The poor called to thee and thou didst not hearken, and thine ears were closed to the cry of My afflicted. The inheritance of the fatherless thou didst take unto thyself, and thou didst send the foxes into the vineyard of thy neighbour's field. Thou didst take the bread of the children and give it to the dogs to eat, and My lepers who lived in the marshes, and were at peace and praised Me, thou didst drive forth on to the highways, and on Mine earth out of which I made thee thou didst spill innocent blood".</p>
+            <p class="indent-first">And the Man made answer and said, "Even so did I."</p>
             <p class="indent-first">And again <rs type="name" key="GOD3">God</rs> opened the Book of the Life of the Man.</p>
-            <p class="indent-first">And <rs type="name" key="GOD3">God</rs> said to the Man, 'Thy life hath been evil, and the Beauty I have shown thou hast sought for, and the Good I have hidden thou didst pass by. The walls of thy chamber were painted with images, and from the bed of thine abominations thou didst rise up to the sound of flutes. Thou didst build seven altars to the sins I have suffered, and didst eat of the thing that may not be eaten, and the purple of thy raiment was broidered with the three signs of shame. Thine idols were neither of gold nor of silver that endure, but of flesh that dieth. Thou didst stain their hair with perfumes and put pomegranates in their hands. Thou didst stain their feet with saffron and spread carpets before them. With antimony thou didst stain their eyelids and their bodies thou didst smear with myrrh. Thou didst bow thyself to the ground before them, and the thrones of thine idols were set in the sun. Thou didst show to the sun thy shame and to the moon thy madness.'</p>
-            <p class="indent-first">And the Man made answer and said, 'Even so did I.'</p>
+            <p class="indent-first">And <rs type="name" key="GOD3">God</rs> said to the Man, "Thy life hath been evil, and the Beauty I have shown thou hast sought for, and the Good I have hidden thou didst pass by. The walls of thy chamber were painted with images, and from the bed of thine abominations thou didst rise up to the sound of flutes. Thou didst build seven altars to the sins I have suffered, and didst eat of the thing that may not be eaten, and the purple of thy raiment was broidered with the three signs of shame. Thine idols were neither of gold nor of silver that endure, but of flesh that dieth. Thou didst stain their hair with perfumes and put pomegranates in their hands. Thou didst stain their feet with saffron and spread carpets before them. With antimony thou didst stain their eyelids and their bodies thou didst smear with myrrh. Thou didst bow thyself to the ground before them, and the thrones of thine idols were set in the sun. Thou didst show to the sun thy shame and to the moon thy madness".</p>
+            <p class="indent-first">And the Man made answer and said, "Even so did I".</p>
             <p class="indent-first">And a third time <rs type="name" key="GOD3">God</rs> opened the Book of the Life of the Man.</p>
-            <p class="indent-first">And <rs type="name" key="GOD3">God</rs> said to the Man, 'Evil hath been thy life, and with evil didst thou requite good, and with wrongdoing kindness. The hands that fed thee thou didst wound, and the breasts that gave thee suck thou didst despise. He who came to thee with water went away thirsting, and the outlawed men who hid thee in their tents at night thou didst betray before dawn. Thine enemy who spared thee thou didst snare in an ambush, and the friend who walked with thee thou didst sell for a price, and to those who brought thee Love thou didst ever give Lust in thy turn.'</p>
-            <p class="indent-first">And the Man made answer and said, 'Even so did I.'</p>
-            <p class="indent-first">And <rs type="name" key="GOD3">God</rs> closed the Book of the Life of the Man, and said, 'Surely I will send thee into Hell. Even into Hell will I send thee.'</p>
-            <p class="indent-first">And the Man cried out, 'Thou canst not.'</p>
-            <p class="indent-first">And <rs type="name" key="GOD3">God</rs> said to the Man, 'Wherefore can I not send thee to Hell, and for what reason?'</p>
-            <p class="indent-first">'Because in Hell have I always lived,' answered the Man.</p>
+            <p class="indent-first">And <rs type="name" key="GOD3">God</rs> said to the Man, "Evil hath been thy life, and with evil didst thou requite good, and with wrongdoing kindness. The hands that fed thee thou didst wound, and the breasts that gave thee suck thou didst despise. He who came to thee with water went away thirsting, and the outlawed men who hid thee in their tents at night thou didst betray before dawn. Thine enemy who spared thee thou didst snare in an ambush, and the friend who walked with thee thou didst sell for a price, and to those who brought thee Love thou didst ever give Lust in thy turn".</p>
+            <p class="indent-first">And the Man made answer and said, "Even so did I".</p>
+            <p class="indent-first">And <rs type="name" key="GOD3">God</rs> closed the Book of the Life of the Man, and said, "Surely I will send thee into Hell. Even into Hell will I send thee".</p>
+            <p class="indent-first">And the Man cried out, "Thou canst not".</p>
+            <p class="indent-first">And <rs type="name" key="GOD3">God</rs> said to the Man, "Wherefore can I not send thee to Hell, and for what reason?".</p>
+            <p class="indent-first">"Because in Hell have I always lived", answered the Man.</p>
             <p class="indent-first">And there was silence in the House of Judgment.</p>
-            <p class="indent-first">And after a space <rs type="name" key="GOD3">God</rs> spake, and said to the Man, 'Seeing that I may not send thee into Hell, surely I will send thee unto Heaven. Even unto Heaven will I send thee.'</p>
-            <p class="indent-first">And the Man cried out, 'Thou canst not.'</p>
-            <p class="indent-first">And <rs type="name" key="GOD3">God</rs> said to the Man, 'Wherefore can I not send thee unto Heaven, and for what reason?'</p>
-            <p class="indent-first">'Because never, and in no place, have I been able to imagine it,' answered the Man.</p>
+            <p class="indent-first">And after a space <rs type="name" key="GOD3">God</rs> spake, and said to the Man, "Seeing that I may not send thee into Hell, surely I will send thee unto Heaven. Even unto Heaven will I send thee".</p>
+            <p class="indent-first">And the Man cried out, "Thou canst not".</p>
+            <p class="indent-first">And <rs type="name" key="GOD3">God</rs> said to the Man, "Wherefore can I not send thee unto Heaven, and for what reason?".</p>
+            <p class="indent-first">"Because never, and in no place, have I been able to imagine it", answered the Man.</p>
             <p class="indent-first">And there was silence in the House of Judgment.</p>
         </content>
     </column>
-    <column>
+    <column mainLang="es" translatedFrom="en">
         <head>El Tribunal</head>
         <content>
             <p>Y hubo silencio en el Tribunal y el Hombre se presentó desnudo ante <rs type="name" key="GOD3">Dios</rs>.</p>
@@ -50,7 +99,7 @@
             <p class="indent-first">Y hubo silencio en el Tribunal.</p>
         </content>
     </column>
-    <column>
+    <column mainLang="pt" translatedFrom="en">
         <head>A casa de juízo</head>
         <content>
             <p>E havia silencio na Casa de Juizo e o Homem apareceu nu ante <rs type="name" key="GOD3">Deus</rs>.</p>
@@ -75,7 +124,7 @@
             <p class="indent-first">E houve silencio na Casa de Juizo.</p>
         </content>
     </column>
-    <column>
+    <column mainLang="es" translatedFrom="pt">
         <head>El tribunal</head>
         <content>
             <p>Y había silencio en El Tribunal y el Hombre apareció desnudo ante <rs type="name" key="GOD3">Dios</rs>.</p>
@@ -101,3 +150,4 @@
         </content>
     </column>
 </document>
+</TEI>
