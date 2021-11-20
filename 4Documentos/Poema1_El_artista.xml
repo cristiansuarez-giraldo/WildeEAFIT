@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Poemas en prosa</title>
+                <author>Oscar Wilde</author>
+                <respStmt>
+                    <resp>Traducción</resp>
+                    <name>Semillero de Poética y traducción</name>
+                </respStmt>
+                <respStmt>
+                    <resp>Codificación y transcripción digital</resp>
+                    <name>Semillero de Poética y traducción</name>
+                </respStmt>
+                <respStmt>
+                    <resp>Modelación de datos y codificación</resp>
+                    <name>Cristian Suárez-Giraldo</name>
+                </respStmt>
+                <respStmt>
+                    <resp>Revisión de texto</resp>
+                    <name>Yenny Correa León</name>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>Universidad EAFIT</publisher>
+                <pubPlace>Medellín</pubPlace>
+                <date>2021</date>
+                <availability status="restricted">
+                    <licence target="https://creativecommons.org/licenses/by-nc-sa/4.0/">
+                        Distribuida bajo Licencia Creative Commons
+                        Atribución-NoComercial-CompartirIgual 4.0 Internacional (CC BY-NC-SA
+                        4.0)</licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>
+                    <title/>
+                    <textLang mainLang="es" otherLangs="pt"/>
+                    <relatedItem type="translatedFrom">
+                        <bibl>
+                            <textLang mainLang="en"/>
+                            <ref target="https://www.wilde-online.info/poems-in-prose.html">Poems in Prose</ref>
+                        </bibl>
+                    </relatedItem>
+                </bibl>
+            </sourceDesc>
+        </fileDesc>
+</teiHeader>
+<facsimile>
+    <graphic url="Pessoa-O-mestre-1.jpg" xml:id="pm1"/>
+    <graphic url="Pessoa-O-mestre-2.jpg" xml:id="pm2"/>
+</facsimile>
+<text>
+    <body>
+        <div>
+        <pb facs="Pessoa-O-mestre-1">[BNP 94-14r e 15r]</pb>
+             <head><hi rend="underline">O Mestre</hi></head>
+            <p><lb break="yes"/>Ora quando as sombras cahiam
+                <lb break="yes"/>sobre a terra, José de Arimathéa,
+                <lb break="yes"/>tendo accendido um archote de
+                <lb break="no"/>desceu do monte para o val-
+                <lb break="yes"/>le. Porque tinha de que tratar em  
+                <lb break="yes"/>sua casa.</p>
+            <p><lb break="yes"/>E ajoelhando nos seixos do Valle
+                <lb break="yes"/>da Desolação, viu um jovem que
+                <lb break="yes"/>estava nú e chorando. O seu
+                <lb break="yes"/>cabello tinha a cór do mel e o
+                <lb break="yes"/>seu corpo era como uma branca
+                <lb break="yes"/>flór, mas rasgára o seu corpo com 
+                <lb break="yes"/>espinhos e sobre o seu cabello 
+                <lb break="yes"/>deitára cinzas como uma corôa.</p>
+            <p><lb break="no"/>E o que tinha grandes rique-
+                <lb break="yes"/>zas disse ao jovem que estava nú
+                <lb break="yes"/>e chorando: Não me admira que
+                <lb break="yes"/>a tua magoa seja tão grande,
+                <lb break="yes"/>porque com certeza Elle era um 
+                <lb break="yes"/>justo.</p>
+            <p><lb break="yes"/>E o jovem respondeu: Não é
+                <lb break="yes"/>por Elle que eu choro mas por
+        <pb facs="Pessoa-O-mestre-2">[BNP 94-15r e 15r]</pb>
+                <lb break="yes"/>mim. Eu tambem mudei agua
+                <lb break="yes"/>em vinho, e curei o leproso, e dei
+                <lb break="no"/>vista ao cego. Andei sobre as a-
+                <lb break="no"/>aguas e dos que moram nos Tumu-
+                <lb break="no"/>tumulos mandei sahir os demonios. Ali-
+                <lb break="no"/>mentei os famintos no deserto 
+                <lb break="no"/>onde não havia alimento, e le-
+                <lb break="yes"/>vantei os mortos das suas casas 
+                <lb break="no"/>estreitas, e deante de uma gran-
+                <lb break="yes"/>de multidão uma figueira esteril
+                <lb break="yes"/>esteril seccou. Tudo o que este homem
+                <lb break="yes"/>fez, fiz eu tambem. E a mim
+                <lb break="yes"/>não me crucificaram.</p>
+        </div>
+    </body>
+</text>
+</TEI>
