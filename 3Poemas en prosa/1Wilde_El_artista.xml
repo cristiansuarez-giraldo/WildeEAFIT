@@ -76,7 +76,7 @@
             <head>El artista</head>
             <content>
                 <p rend="inendt-first">Una noche entró a su alma el deseo de moldear la imagen de <hi rend="italic">El
-                        placer que se fija en un instante</hi>, y salió a recorrer el mundo buscando
+                    placer que se fija en un instante</hi>, y salió a recorrer el mundo buscando
                     bronce. Porque solo en bronce podía pensar.</p>
                 <p rend="indent-first">Pero todo el bronce del mundo entero había desaparecido, y
                     en ningún lugar en todo el mundo había ya bronce, salvo el bronce de la imagen
@@ -90,16 +90,16 @@
                 <p rend="indent-first">Entonces tomó la imagen que había moldeado y, arrojándola a
                     un gran horno, la ofreció al fuego.</p>
                 <p rend="indent-first">Y con el bronce de la imagen de <hi rend="italic">La
-                        tristeza que dura para siempre</hi> moldeó la imagen de <hi rend="italic">El
-                        placer que se fija en un instante</hi>.</p>
+                    tristeza que dura para siempre</hi> moldeó la imagen de <hi rend="italic">El
+                    placer que se fija en un instante</hi>.</p>
             </content>
         </column>
         <column mainLang="pt" translatedFrom="en">
             <head>O artista</head>
             <content>
-                <p rend="indent-first">Uma tarde veio-lhe à alma o desejo de talhar uma imagem do <hi rend="italic"
-                    >Prazer que dura um momento</hi>. E foi mundo fora à procura de bronze.
-                Porque não pensava senão por bronze.</p>
+                <p rend="indent-first">Uma tarde veio-lhe à alma o desejo de talhar uma imagem do 
+                    <hi rend="italic">Prazer que dura um momento</hi>. E foi mundo fora à procura de bronze.
+                    Porque não pensava senão por bronze.</p>
                 <p rend="indent-first">Mas todo o bronze de todo o mundo tinha desaparecido, nem
                     em qualquer parte do mundo se encontrava bronze a não ser o bronze da imagem da
                     <hi rend="italic">Tristeza que sempre dura</hi>.</p>
@@ -118,8 +118,8 @@
         <column mainLang="es" translatedFrom="pt">
             <head>El artista</head>
             <content>
-                <p rend="indent-first">Una tarde le vino al alma el deseo de tallar una imagen del <hi rend="italic"
-                        >Placer que dura un momento</hi>. Y fue por el mundo fuera en busca de
+                <p rend="indent-first">Una tarde le vino al alma el deseo de tallar una imagen del <hi rend="italic">Placer 
+                    que dura un momento</hi>. Y fue por el mundo fuera en busca de
                     bronce. Porque no pensaba sino con bronce.</p>
                 <p rend="indent-first">Pero todo el bronce de todo el mundo había desaparecido, ni
                     en cualquier parte del mundo se encontraba bronce a no ser el bronce de la
@@ -133,8 +133,8 @@
                 <p rend="indent-first">Y tomó la imagen que tallara y la puso en una fragua y la
                     dio al fuego.</p>
                 <p rend="indent-first">Y del bronce de la imagen de la <hi rend="italic">Tristeza
-                        que siempre dura</hi> talló él una imagen del <hi rend="italic">Placer que
-                        dura un momento</hi>.</p>
+                    que siempre dura</hi> talló él una imagen del <hi rend="italic">Placer que
+                    dura un momento</hi>.</p>
             </content>
         </column>
     </document>
