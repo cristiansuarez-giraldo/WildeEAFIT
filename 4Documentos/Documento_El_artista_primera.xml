@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Poemas en prosa</title>
+                <author>Oscar Wilde</author>
+                <respStmt>
+                    <resp>Traducción</resp>
+                    <name>Semillero de Poética y traducción</name>
+                </respStmt>
+                <respStmt>
+                    <resp>Codificación y transcripción digital</resp>
+                    <name>Semillero de Poética y traducción</name>
+                </respStmt>
+                <respStmt>
+                    <resp>Modelación de datos y codificación</resp>
+                    <name>Cristian Suárez-Giraldo</name>
+                </respStmt>
+                <respStmt>
+                    <resp>Revisión de texto</resp>
+                    <name>Yenny Correa León</name>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>Universidad EAFIT</publisher>
+                <pubPlace>Medellín</pubPlace>
+                <date>2021</date>
+                <availability status="restricted">
+                    <licence target="https://creativecommons.org/licenses/by-nc-sa/4.0/">
+                        Distribuida bajo Licencia Creative Commons
+                        Atribución-NoComercial-CompartirIgual 4.0 Internacional (CC BY-NC-SA
+                        4.0)</licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>
+                    <title/>
+                    <textLang mainLang="es" otherLangs="pt"/>
+                    <relatedItem type="translatedFrom">
+                        <bibl>
+                            <textLang mainLang="en"/>
+                            <ref target="https://www.wilde-online.info/poems-in-prose.html">Poems in Prose</ref>
+                        </bibl>
+                    </relatedItem>
+                </bibl>
+            </sourceDesc>
+        </fileDesc>
+</teiHeader>
+<facsimile xml:base="ruta-de-la-carpeta-con-las-imagenes"> <!--Daniel, aquí se reemplaza la ruta de la carpeta destinada para conservar las imagenes-->
+    <graphic url="Pessoa-O-Artista-primeira-v.jpg" xml:id="PAP1"/>
+    </facsimile>
+<text>
+    <body>
+        <div>
+        <pb facs="PA1">[BNP 94-11r]</pb>
+            <head><hi rend="underline">O artista</hi></head>
+            <p><lb break="yes"/>Uma noite entrou-lhe na alma o desejo de /moldar/ uma
+                <lb break="yes"/>imagem do <add place="above">de o</add> <hi rend="underline">Prazer que dura um Momento</hi>. E foi correr
+                <lb break="yes"/>mundo á procura de bronze. Porque so <add place="above">em</add> bronze elle podia pensar.</p>
+            <p><lb break="yes"/>Mas todo o bronze em dodo o mundo <add place="above">do mundo inteiro</add> tinha desapparecido, nem em 
+                <lb break="yes"/>parte alguma do mundo se podia encontrar<add place="above">encontrava</add> bronze, salvo o bronze da
+                <lb break="yes"/>da imagem da <hi rend="underline">Dór que dura eternamente <add place="above">para sempre</add>.</hi></p>
+            <p><lb break="no"/>Ora esta imagem elle proprio, e com sua proprias mãos mol-
+                <lb break="yes"/>dára, e a puzera sobre tumulo da unica cousa que amára
+                <lb break="yes"/>em <add place="above">na</add> vida. Sobre o tumulo da cousa morta que mais amára
+                <lb break="yes"/>fez (collocou) esta imagem de seu moldar, para que servisse
+                <lb break="yes"/>de signal <add place="above">amostra</add> do amor humano que não morre, e de symbolo 
+                <lb break="yes"/>da dór humana que dura eternamente <add place="above">para sempre</add>. E em todo o mundo <add place="above">no mundo inteiro</add>
+                <lb break="yes"/>não havia outro bronze senão o bronze d’esta imagem.</p>
+            <p><lb break="no"/>E elle pegou na imagem que talhara <add place="above">moldeara</add> e pôl-a n’uma grande
+                <lb break="yes"/>fornalha e deu-a ao fogo.</p>
+            <p><lb break="yes"/>E do bronze da imagem da Dór que dura para sempre moldeu
+                <lb break="yes"/>uma imagem do Prazer que dura <hi rend="underline">um /só/</hi> momento.</p>
+        </div>
+    </body>
+</text>
+</TEI>
