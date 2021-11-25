@@ -4,7 +4,7 @@
 <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title>Poemas en prosa</title>
+                <title>Poemas em prosa</title> <!--Jorge, modifiqué este título de acuerdo a uno de los manuscritos... Revisar si hace falta incluir-->
                 <author>Oscar Wilde</author>
                 <respStmt>
                     <resp>Traducción</resp>
@@ -36,14 +36,7 @@
             </publicationStmt>
             <sourceDesc>
                 <bibl>
-                    <title/>
-                    <textLang mainLang="es" otherLangs="pt"/>
-                    <relatedItem type="translatedFrom">
-                        <bibl>
-                            <textLang mainLang="en"/>
-                            <ref target="https://www.wilde-online.info/poems-in-prose.html">Poems in Prose</ref>
-                        </bibl>
-                    </relatedItem>
+                            <!--Jorge, aquí se puede inclauir la información de la biblioteca digital de donde se toman los facsimilares-->                                   
                 </bibl>
             </sourceDesc>
         </fileDesc>
