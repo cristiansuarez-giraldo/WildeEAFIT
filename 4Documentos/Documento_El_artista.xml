@@ -1,7 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
-<teiHeader>
+    <teiHeader>
         <fileDesc>
             <titleStmt>
                 <title>Poemas en prosa</title>
@@ -41,55 +40,62 @@
                     <relatedItem type="translatedFrom">
                         <bibl>
                             <textLang mainLang="en"/>
-                            <ref target="https://www.wilde-online.info/poems-in-prose.html">Poems in Prose</ref>
+                            <ref target="https://www.wilde-online.info/poems-in-prose.html">Poems in
+                                Prose</ref>
                         </bibl>
                     </relatedItem>
                 </bibl>
             </sourceDesc>
         </fileDesc>
-</teiHeader>
-<facsimile xml:base="ruta-de-la-carpeta-con-las-imagenes"> <!--Daniel, aquí se reemplaza la ruta de la carpeta destinada para conservar las imagenes-->
-    <graphic url="Pessoa-O-Artista-1.jpg" xml:id="PA1"/>
-    <graphic url="Pessoa-O-Artista-2.jpg" xml:id="PA2"/>
-</facsimile>
-<text>
-    <body>
-        <div>
-        <pb facs="PA1">[BNP 94-9]</pb>
-             <head><hi rend="underline">Poemas em prosa.</hi></head>
-             <head><hi rend="underline">O artista.</hi></head>
-            <p><lb break="yes"/>Uma tarde veio-lhe á alma o
-                <lb break="yes"/>desejo de talhar uma imagem do
-                <lb break="yes"/><hi rend="underline">Prazer que dura um momento</hi>. E
-                <lb break="no"/>foi mundo fóra á procura de bron-
-                <lb break="yes"/>ze. Porque não pensava senão por
-                <lb break="yes"/>bronze.</p>
-            <p><lb break="yes"/>Mas todo o bronze de todo o mun
-                <lb break="yes"/>do tinha desapparecido, nem em
-                <lb break="no"/>cualquer parte do mundo se encon-
-                <lb break="yes"/>trava bronze a não ser o bronze da
-                <lb break="yes"/>imagem da <hi rend="underline">Tristeza que sempre dura</hi>.</p>
-            <p><lb break="yes"/>Ora esta imagem tinha-a
-                <lb break="yes"/>elle proprio, e com sua proprias
-                <lb break="yes"/>mãos, talhado, e tinha a posto
-                <lb break="yes"/>sobre o tumulo da unica cousa que
-                <lb break="yes"/>amára na vida. No tumulo da
-            <pb facs="PA2">[BNP 94-10]</pb>
-                <lb break="yes"/>unica cousa que amára tinha posto
-                <lb break="yes"/>esta imagem de seu talhar, para
-                <lb break="no"/>que servisse de typo do amor huma-
-                <lb break="yes"/>no que não morre, e de symbolo da 
-                <lb break="yes"/>tristeza humana que sempre dura.
-                <lb break="no"/>E em todo o mundo não havia bron-
-                <lb break="yes"/>ze a não ser o bronze d’esta imagem.</p>
-            <p><lb break="yes"/>E pegou na imagem que talhára
-                <lb break="yes"/>e pôl-a n’uma fornalha e deu-a
-                <lb break="yes"/>ao fogo.</p>
-            <p><lb break="no"/>E do bronze da imagem da <hi rend="underline">Tris-
-                <lb break="yes"/>teza que sempre dura</hi> talhou <add place="above">elle</add> uma 
-                <lb break="no"/>imagem do <hi rend="underline">Prazer que dura um mo-
-                <lb break="yes"/>mento.</hi></p>
-        </div>
-    </body>
-</text>
+    </teiHeader>
+    <facsimile xml:base="ruta-de-la-carpeta-con-las-imagenes">
+        <!--Daniel, aquí se reemplaza la ruta de la carpeta destinada para conservar las imagenes-->
+        <graphic url="Pessoa-O-Artista-primeira-v.jpg" xml:id="PAP1"/>
+    </facsimile>
+    <text>
+        <body>
+            <div>
+                <pb facs="PA1">[BNP 94-11r]</pb><!-- JU: Oxygen marca aquí un problema -->
+                <head><hi rend="underline">O artista</hi></head>
+                <p><lb break="yes"/>Uma noite entrou-lhe na alma o desejo de /moldar/<!--Falta etiquetar lo que está entre /.../ JU: esa marca en la transcripción quiere decir que la palabra quedó en duda, en pessoa digital se usó la etiqueta <seg>--> uma 
+                    <lb break="yes"/>imagem do <add place="above">de o</add> <hi rend="underline">Prazer que dura um Momento</hi>. E foi correr □ <!--¿Se etiqueta el □? JU: sí falta una palabra, existe la etiqueta gap-->
+                    <lb break="yes"/>mundo á procura de bronze. Porque so <add place="above">em</add> bronze elle podia pensar.</p>
+                <p><lb break="yes"/>Mas todo o bronze em todo o mundo <add place="above">do mundo inteiro</add> tinha desapparecido, nem em 
+                    <lb break="yes"/>parte alguma do mundo se podia encontrar<add place="above">encontrava</add> bronze, salvo o bronze da 
+                    <lb break="yes"/>da imagem da <hi rend="underline">Dór que dura eternamente <add place="above">para sempre</add>.</hi></p>
+                <p><lb break="no"/>Ora esta imagem elle proprio, e com sua proprias mãos mol- 
+                    <lb break="yes"/>dára, e a puzera sobre tumulo da unica cousa que amára 
+                    <lb break="yes"/>em <add place="above">na</add> vida. Sobre o tumulo da cousa morta que mais amára 
+                    <lb break="yes"/>fez (collocou) esta imagem de seu moldar, para que servisse 
+                    <lb break="yes"/>de signal <add place="above">amostra</add> do amor humano que não morre, e de symbolo 
+                    <lb break="yes"/>da dór humana que dura eternamente <add place="above">para sempre</add>. E em todo o mundo <add place="above">no mundo inteiro</add>
+                    <lb break="yes"/>não havia outro bronze senão o bronze d’esta imagem.</p>
+                <p><lb break="no"/>E elle pegou na imagem que talhara <add place="above">moldara</add> e pôl-a n’uma grande 
+                    <lb break="yes"/>fornalha e deu-a ao fogo.</p>
+                <p><lb break="yes"/>E do bronze da imagem da Dór que dura para sempre moldou 
+                    <lb break="yes"/>uma imagem do Prazer que dura um /só/<!--Falta etiquetar lo que está entre /.../--> momento.</p>
+            </div>
+                <div>
+                    <head><hi rend="underline">El artista</hi></head>
+                    <p><lb break="yes"/>Una noche le entró en el alma el deseo de /moldar/<!--Falta etiquetar lo que está entre /.../-->una
+                        <lb break="yes"/>imagen del <add place="above">de el</add> 
+                        <hi rend="underline">Placer que dura un Momento</hi>. Y fue correr □ <!--¿Se etiqueta el □? JU: sí falta una palabra, existe la etiqueta gap--> 
+                        <lb break="yes"/> el mundo en busca de bronce. Porque solo <add place="above">em</add> bronce él podía pensar.</p>
+                    <p><lb break="yes"/>Pero todo el bronce en todo el mundo <add place="above">del mundo entero</add> había desaparecido, ni en
+                    <lb break="yes"/>cualquier parte del mundo se podía encontar <add place="above">se encontraba</add> bronce, salvo el bronce 
+                    <lb break="yes"/>de la imagen del <hi rend="underline">Dolor que dura eternamente <add place="above">para siempre</add></hi>.
+                    <lb break="yes"/>Entonces esta imagen él mismo, y con sus propias manos, mol-
+                    <lb break="yes"/>eara, y la pusiera sobre el túmulo de la única cosa que amara 
+                    <lb break="yes"/>en <add place="above">en la</add> vida. Sobre el túmulo de la cosa muerta que más amara
+                    <lb break="yes"/>hizo (colocó) esta imagen de su moldear, para que sirviera 
+                    <lb break="yes"/>de señal <add place="above">demostración</add> del amor humano que no muere, y de símbolo 
+                    <lb break="yes"/>del dolor humano que dura eternamente <add place="above">para siempre</add>. Y en todo el mundo <add place="above">en el mundo entero</add>
+                    <lb break="yes"/>no había más bronce sino el bronce de esta imagen.</p> 
+                    <p><lb break="yes"/>Y él tomó la imagen que tallara <add place="above">moldeara</add> y la puso en una gran 
+                        <lb break="yes"/>fragua y la dio al fuego.</p> 
+                    <p><lb break="yes"/>Y del bronce de la imagen del Dolor que dura para siempre moldeó 
+                        <lb break="yes"/>una imagen del Placer que dura /solo/<!--Falta etiquetar lo que está entre /.../--> un momento.</p> 
+                </div>
+        </body>
+    </text>
 </TEI>
