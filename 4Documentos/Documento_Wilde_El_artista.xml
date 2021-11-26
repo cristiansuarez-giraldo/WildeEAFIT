@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Poemas en prosa</title>
+                <author>Oscar Wilde</author>
+                <respStmt>
+                    <resp>Traducción</resp>
+                    <name>Semillero de Poética y traducción</name>
+                </respStmt>
+                <respStmt>
+                    <resp>Codificación y transcripción digital</resp>
+                    <name>Semillero de Poética y traducción</name>
+                </respStmt>
+                <respStmt>
+                    <resp>Modelación de datos y codificación</resp>
+                    <name>Cristian Suárez-Giraldo</name>
+                </respStmt>
+                <respStmt>
+                    <resp>Revisión de texto</resp>
+                    <name>Yenny Correa León</name>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>Universidad EAFIT</publisher>
+                <pubPlace>Medellín</pubPlace>
+                <date>2021</date>
+                <availability status="restricted">
+                    <licence target="https://creativecommons.org/licenses/by-nc-sa/4.0/">
+                        Distribuida bajo Licencia Creative Commons
+                        Atribución-NoComercial-CompartirIgual 4.0 Internacional (CC BY-NC-SA
+                        4.0)</licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>
+                    <title/>
+                    <textLang mainLang="es" otherLangs="pt"/>
+                    <relatedItem type="translatedFrom">
+                        <bibl>
+                            <textLang mainLang="en"/>
+                            <ref target="https://www.wilde-online.info/poems-in-prose.html">Poems in
+                                Prose</ref>
+                        </bibl>
+                    </relatedItem>
+                </bibl>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <facsimile xml:base="ruta-de-la-carpeta-con-las-imagenes">
+        <!--Daniel, aquí se reemplaza la ruta de la carpeta destinada para conservar las imagenes-->
+        <graphic url="Pessoa-O-Artista-primeira-v.jpg" xml:id="PAP1"/> <!-- ref target="https://www.themorgan.org/collection/oscar-wilde/manuscripts-letters/13" -->
+    </facsimile>
+    <text>
+        <body>
+            <div>
+                <pb facs="PA1">Page 1</pb><!-- JU: Oxygen marca aquí un problema -->
+                <head rend="center">The Artist.</head> 
+                <p rend="indent-first"><lb break="yes"/><del rend="overstrike">He could only think in 
+                    <lb break="yes"/>bronze.</del> 
+                    <lb break="yes"/>
+                    <p rend="indent-first"><lb break="yes"/><subst><del rend="overstrike">And</del><add place="above">One morning</add></subst> there came 
+                        <subst><del rend="overstrike">to him the</del> <add place="above"><del rend="overstrike">into</del><add place="above"><del rend="overstrike">upon</del></add> 
+                            <add place="above">into</add> his soul <add place="above">a <add place="above">the</add> desire </add>  
+                            <lb break="yes"/><del rend="overstike">idea</del> to fashion <del rend="overstrike">an</del> [↑ the] [↑ an]  image of <hi rend="undeline">The 
+                        <lb break="yes"/>Pleasure that lives [↑ abideth] for a Moment.</hi> 
+                        <lb break="yes"/>And he went forth [↓ into the world] to look for 
+                        <lb break="yes"/>bronze. For he could [↓ only think in bronze.]</p>
+                    <p rend="indent-first">But all the bronze <subst><del rend="overstike">in</del><add place="above">of</add></subst> the whole
+                        <lb break="yes"/>world had disappeared, nor anywhere 
+                        <lb break="yes"/>in the <add place="above">whole</add> world was there any bronze
+                        <lb break="yes"/>to be found, save only the bronze
+                        <lb break="yes"/>of the <add place="above"><del rend="overstike">bronze</del> great</add> image of <hi rend="undeline">The Sorrow that
+                        <lb break="yes"/>endureth for Ever.</hi> <del rend="overstike">that he had
+                        <lb break="yes"/>fashioned with his own hands 
+                        <lb break="yes"/>for the tomb of the woman he had 
+                        <lb break="yes"/>most loved in life.</del></p>
+                    <p rend="indent-first"><lb break="yes"/>Now this [↑ great ↑ <del rend="overstike">bronze</del>] image he had himself,
+                        <lb break="yes"/>and with his own hands, fashioned,
+                        <lb break="yes"/>and had set [↑ it] on the tomb of the one thing he had loved in life.
+                        <lb break="yes"/>On the tomb of the dead thing <del rend="overstike">woman</del> [↑ thing]
+                        <lb break="yes"/>he had [↑ most] loved had he set this
+                        <lb break="yes"/>image of his own fashioning, that 
+                        <lb break="yes"/>it might serve as a sign of the
+                        <lb break="yes"/>Love [↑ of man] that dieth not and [↑ <del rend="overstike">as</del>] a symbol
+                        <lb break="yes"/>of the Sorrow [↑ of <del rend="overstike">the</del> man] that endureth for ever.
+                        <lb break="yes"/>And in the whole world there was 
+                        <lb break="yes"/>no other bronze save the bronze of
+                        <lb break="yes"/>this image.</p>
+                    <p rend="indent-first"><lb break="yes"/>So he took the [↑ <del rend="overstike">bronze</del>] image he had fashioned and <del rend="overstike">gave it to the</del>
+                        <pb facs="PA2">Page 2</pb><!-- JU: Oxygen marca aquí un problema -->
+                        <lb break="yes"/><del rend="overstike">fire and</del> set it in a great
+                        <lb break="yes"/>furnace, and gave it to the fire.</p>
+                    <p rend="indent-first"><lb break="yes"/>And out of the bronze of the image of <hi rend="undeline">The Sorrow that endureth
+                        <lb break="yes"/>for Ever</hi> he fashioned the image
+                        <lb break="yes"/>of <hi rend="undeline">The Pleasure that abideth for
+                        <lb break="yes"/>a Moment.</hi> For [↓ he could only think in bronze.]</p>
+                    </div>
+        </body>
+    </text>
+</TEI>
