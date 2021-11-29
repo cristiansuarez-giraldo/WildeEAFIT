@@ -54,20 +54,9 @@
 </facsimile>
 <text>
     <body>
-        <!-- 
-            The next section (under this comment) should have an id "facsimile-images" and left empty.
-
-            This section allows to put here all the images within the "facsimile" tag automatically when coupled with a system for generating 
-            web pages using XML documents. 
-
-            It also provides some semantical meaning to the XML files, so they are easier to read and make sense for any person reading it.
-        -->
-        
-        <column xml:id="facsimile-images"></column>
-            
-        <column>
-                <pb facs="Pessoa-O-Discipulo-1">[BNP 94-7]</pb>
-                <head><hi rend="underline">O Discípulo.</hi></head>
+    <div>
+        <pb facs="Pessoa-O-Discipulo-1">[BNP 94-7]</pb>
+            <head><hi rend="underline">O Discípulo.</hi></head>
                 <p><lb break="yes"/>Quando Narciso morreu, a fonte
                 <lb break="yes"/>do seu prazer tornou-se de uma
                 <lb break="yes"/>taça de aguas suaves uma taça
@@ -76,10 +65,10 @@
                 <lb break="yes"/>para cantar á fonte e
                 <lb break="yes"/>dar-lhe consolação.</p>
                 <p><lb break="yes"/>E quando viram que a fonte se
-                <lb break="yes"/>tinha <subst><del rend="overstrike">mudado</del><add place="inline">tornado</add></subst> de uma
+                <lb break="yes"/>tinha <hi rend="overstrike">mudado</hi> [↑ tornado] de uma
                 <lb break="yes"/>taça de aguas suaves uma taça
                 <lb break="yes"/>de lagrimas amargas, soltaram
-                <lb break="yes"/>as verdes <subst><del rend="overstrike">coronas</del><add place="inline">tranças</add></subst> do seu
+                <lb break="yes"/>as verdes <hi rend="overstrike">coronas</hi> [↑ tranças] do seu
                 <lb break="no"/>cabello e fallando á fonte dis- 
                 <lb break="no"/>seram: Não nos admira que cho-
                 <lb break="yes"/>res assim por Narciso, tão bello
@@ -90,10 +79,7 @@
                 <lb break="yes"/>ber? responderam as Oréades. Por
                 <lb break="no"/>nós passava elle sempre, deixan-
                 <lb break="no"/>do-nos, mas a ti buscava-te sem-   
-        </column>
-                
-        <column>
-                <pb facs="Pessoa-O-Discipulo-2">[BNP 94-8]</pb>
+    <pb facs="Pessoa-O-Discipulo-2">[BNP 94-8]</pb>
                 <lb break="yes"/>pre e deitava-se á tua margem
                 <lb break="yes"/>e olhava, debruçando-se, para ti
                 <lb break="no"/>e no espelho das tuas aguas es-
@@ -104,7 +90,42 @@
                 <lb break="no"/>debruçava fitando-me, no espe-
                 <lb break="yes"/>lho dos seus olhos eu via sempre a
                 <lb break="no"/>minha propria belleza reflectida.</p>
-        </column>
+    </div>
+    <div>
+            <head><hi rend="underline">El discípulo</hi></head>
+                <p><lb break="yes"/>Cuando Narciso murió, la fuente
+                <lb break="yes"/>de su placer se transformó de una
+                <lb break="yes"/>copa de aguas suaves a una copa
+                <lb break="no"/>de lágrimas amargas, y las Oréa-
+                <lb break="yes"/>des vinieron llorando por los bosques
+                <lb break="yes"/>para cantarle a la fuente y
+                <lb break="yes"/>darle consuelo.</p>
+                <p><lb break="yes"/>Y cuando vieron que la fuente se
+                <lb break="yes"/>había <hi rend="overstrike">cambiado</hi> [↑ transformado] de una
+                <lb break="yes"/>copa de aguas suaves a una copa
+                <lb break="yes"/>de lágrimas amargas, soltaron
+                <lb break="yes"/>las verdes <hi rend="overstrike">coronas</hi> [↑ trenzas] de su
+                <lb break="no"/>cabello y hablándole a la fuente, di-
+                <lb break="no"/>jeron: No nos sorprende que llo-
+                <lb break="yes"/>res así por Narciso, tan bello
+                <lb break="yes"/>él era.</p>
+                <p><lb break="yes"/>‒ ¿Pero Narciso era bello? dijo la
+                <lb break="yes"/>fuente.</p>
+                <p><lb break="no"/>‒ ¿Quién mejor que tú puede sa-
+                <lb break="yes"/>berlo? respondieron las Oréades. Él
+                <lb break="no"/>siempre pasaba por nosotras, abando-
+                <lb break="no"/>nándonos, pero a ti te buscaba siem-   
+                <lb break="yes"/>pre y se tendía a tu orilla
+                <lb break="yes"/>y te miraba, inclinándose,
+                <lb break="no"/>y en el espejo de tus aguas re-
+                <lb break="yes"/>flejaba su belleza.</p>  
+                <p><lb break="yes"/>Y la fuente respondió: Pero yo
+                <lb break="yes"/>amaba a Narciso porque, cuando,
+                <lb break="yes"/>tendido en mi orilla, se
+                <lb break="no"/>inclinaba mirándome fijamente, en el es-
+                <lb break="yes"/>pejo de sus ojos yo veía siempre mi 
+                <lb break="no"/>mi propia belleza reflejada.</p>
+    </div>
     </body>
 </text>
 </TEI>
