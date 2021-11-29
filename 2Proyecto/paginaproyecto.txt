@@ -16,7 +16,7 @@ ser ampliamente difundido en el campo de influencia cultural de la Universidad E
 nos decantamos por esta iniciativa de acceso abierto, que contó con el apoyo del programa de “Pequeños proyectos” 
 de la Vicerrectoría de Descubrimiento y Creación. 
 
-En nuestra edición de los [i]Poemas en prosa[i]<!-- hipervincular a la pestaña "poemas en prosa"-->, [i]Poems in Prose[i] (1894), hemos decidido editar y traducir las versiones 
+En nuestra edición de los [i]Poemas en prosa[i]<!-- hipervincular a la pestaña "Obras"-->, [i]Poems in Prose[i] (1894), hemos decidido editar y traducir las versiones 
 que el poeta portugués Fernando Pessoa (1888-1935), lector asiduo del creador de Dorian Gray, 
 realizó de algunos de estos poemas –aunque no llegara nunca a publicarlas–, presentando el texto 
 en portugués y nuestra traducción del mismo, junto con el texto original en inglés y su respectiva traducción 
@@ -27,9 +27,8 @@ en el tiempo. Estos materiales han sido codificados en formato XML, siguiendo el
 (Textual Encoding Initiative[https://tei-c.org/guidelines/]) de libre acceso en esta página para cualquier interesado..
 
 Además, ofrecemos al lector una sección llamada Documentos, en la puede visualizar los manuscritos 
-de los textos originales, tanto de Wilde como de Pessoa –conservados en la Morgan Library[https://www.themorgan.org/collection/Oscar-Wilde] de Nueva York y 
-en la Biblioteca Nacional de Portugal[https://bndigital.bnportugal.gov.pt/project/pessoa-fernando-1888-1935/], respectivamente–, junto con transcripciones diplomáticas, 
-que permiten acompañar diferentes etapas de composición y revisiónen el que los textos fueron emergiendo en versiones más o menos concluidas. 
+de los textos originales, tanto de Wilde como de Pessoa junto con transcripciones diplomáticas, 
+que permiten acompañar diferentes etapas de composición y revisión en de los textos. 
 Este tipo de documentos pueden ayudar a vislumbrar la autoría en medio de esa “lucha con el sentido”, como la llamaba Paul de Man, que será reencarnada por los traductores. 
 
 [h1]Traducción colectiva 
