@@ -49,8 +49,8 @@
 <text>
     <body>
         <div>
-        <pb facs="PM1">[BNP 94-14r]</pb>
-             <head><hi rend="underline">O Mestre</hi></head>
+            <pb facs="PM1">[BNP 94-14r]</pb>
+            <head><hi rend="underline">O Mestre</hi></head>
             <p rend="indent-first"><lb break="yes"/>Ora quando as sombras cahiam
                 <lb break="yes"/>sobre a terra, José de Arimathéa,
                 <lb break="yes"/>tendo accendido um archote de
@@ -69,7 +69,7 @@
                 <lb break="yes"/>zas disse ao jovem que estava nú
                 <lb break="yes"/>e chorando: Não me admira que
                 <lb break="yes"/>a tua magoa seja tão grande,
-                <lb break="yes"/>porque com certeza <subst><del>e</del><add>E</add></subst>lle era um 
+                <lb break="yes"/>porque com certeza e/E\lle era um 
                 <lb break="yes"/>justo.</p>
             <p rend="indent-first"><lb break="yes"/>E o jovem respondeu: Não é
                 <lb break="yes"/>por Elle que eu choro mas por
@@ -89,7 +89,8 @@
                 <lb break="yes"/>não me crucificaram.</p>
         </div>
         <div>
-                    <pb facs="PM1">[BNP 94-14r]</pb>
+        <pb facs="PM1">[BNP 94-14r]</pb>
+         <head><hi rend="underline">El Maestro</hi></head>
                <p rend="indent-first"><lb break="yes"/>Entonces cuando las sombras caían
                  <lb break="yes"/>sobre la tierra, José de Arimatea,
                  <lb break="yes"/>habiendo encendido una antorcha de
@@ -106,25 +107,26 @@
                  <lb break="yes"/>espinos y sobre su cabello 
                  <lb break="yes"/>echara cenizas como una corona.</p>
                 <p rend="indent-first"><lb break="yes"/>Y el que poseía grandes rique-
-                  <lb break="yes"/>zas le dijo al joven que
-                       <lb break="yes"/> estaba desnudo y llorando: No me sorprende que tu pena sea tan grande, 
-                       <lb break="yes"/> porque ciertamente <é>/É\l era un justo.</p>
+                <lb break="yes"/>zas le dijo al joven que
+                <lb break="yes"/> estaba desnudo y llorando: No me sorprende que tu pena sea tan grande, 
+                <lb break="yes"/> porque ciertamente é/É\l era un justo.</p>
                 <p rend="indent-first"><lb break="yes"/>Y el joven le respondió: No es
-                        <lb break="yes"/>por Él que lloro sino por 
-  <pb facs="PM2">[BNP 94-15r]</pb>
-                        <lb break="yes"/>mí. Yo también cambié el agua 
-                        <lb break="yes"/>por vino, y curé al leproso, y le di 
-                        <lb break="yes"/>la vista al ciego. Anduve sobre las a-
-                        <lb break="yes"/>guas y de los que habitan en los Sepul
-                        <lb break="yes"/>-cros mandé salir a los demonios. Ali-
-                        <lb break="yes"/>menté a los hambrientos en el desierto 
-                        <lb break="yes"/>donde no había alimento, y le-
-                        <lb break="yes"/>vanté a los muertos de sus  casas 
-                        <lb break="yes"/>estrechas, y ante una gran 
-                        <lb break="yes"/>multitud una higuera estéril 
-                        <lb break="yes"/>se secó. Todo lo que este hombre 
-                        <lb break="yes"/>hizo, yo lo hice también. Y a mí 
-                        <lb break="yes"/>no me crucificaron.</p> 
+                <lb break="yes"/>por Él que lloro sino por 
+        <pb facs="PM2">[BNP 94-15r]</pb>
+                <lb break="yes"/>mí. Yo también cambié el agua 
+                <lb break="yes"/>por vino, y curé al leproso, y le di 
+                <lb break="yes"/>la vista al ciego. Anduve sobre las a-
+                <lb break="yes"/>guas y de los que habitan en los Sepul
+                <lb break="yes"/>-cros mandé salir a los demonios. Ali-
+                <lb break="yes"/>menté a los hambrientos en el desierto 
+                <lb break="yes"/>donde no había alimento, y le-
+                <lb break="yes"/>vanté a los muertos de sus  casas 
+                <lb break="yes"/>estrechas, y ante una gran 
+                <lb break="yes"/>multitud una higuera estéril 
+                <lb break="yes"/>se secó. Todo lo que este hombre 
+                <lb break="yes"/>hizo, yo lo hice también. Y a mí 
+                <lb break="yes"/>no me crucificaron.</p>
+        </div>
     </body>
 </text>
 </TEI>
