@@ -36,7 +36,7 @@
             <sourceDesc>
                 <bibl>
                     <title/>
-                    <textLang mainLang="es" otherLangs="pt"/>
+                    <textLang mainLang="en" otherLangs="es"/>
                     <relatedItem type="translatedFrom">
                         <bibl>
                             <textLang mainLang="en"/>
@@ -48,9 +48,9 @@
             </sourceDesc>
         </fileDesc>
     </teiHeader>
-    <facsimile xml:base="ruta-de-la-carpeta-con-las-imagenes">
-        <!--Daniel, aquí se reemplaza la ruta de la carpeta destinada para conservar las imagenes-->
-        <graphic url="Pessoa-O-Artista-primeira-v.jpg" xml:id="PAP1"/> <!-- ref target="https://www.themorgan.org/collection/oscar-wilde/manuscripts-letters/13" -->
+    <facsimile>
+        <ref target="https://www.themorgan.org/collection/oscar-wilde/manuscripts-letters/13">"The Artist", page 1</ref>
+        <ref target="https://www.themorgan.org/collection/oscar-wilde/manuscripts-letters/14">"The Artist", page 2</ref>
     </facsimile>
     <text>
         <body>
@@ -86,7 +86,7 @@
                         <lb break="yes"/>no other bronze save the bronze of
                         <lb break="yes"/>this image.</p>
                     <p rend="indent-first"><lb break="yes"/>So he took the [↑ <hi rend="overstike">bronze</hi>] image he had fashioned and <hi rend="overstike">gave it to the</hi>
-                        <pb facs="PA2">Page 2</pb><!-- JU: Oxygen marca aquí un problema -->
+            <pb facs="PA2">Page 2</pb>
                         <lb break="yes"/><hi rend="overstike">fire and</hi> set it in a great
                         <lb break="yes"/>furnace, and gave it to the fire.</p>
                     <p rend="indent-first"><lb break="yes"/>And out of the bronze of the image of <hi rend="underline">The Sorrow that endureth
@@ -126,7 +126,7 @@
                         <lb break="yes"/>más bronce salvo el de
                         <lb break="yes"/>esta imagen.</p>
                     <p rend="indent-first"><lb break="yes"/>Entonces tomó <hi rend="overstrike">el bronce</hi> la imagen que había moldeado y <hi rend="overstrike">se la dio al
-                        <pb facs="PA2">Page 2</pb><!-- JU: Oxygen marca aquí un problema -->
+            <pb facs="PA2">Page 2</pb>
                         <lb break="yes"/>fuego y</hi> la puso en un gran
                         <lb break="yes"/>horno, y lo ofreció al fuego.</p>
                     <p rend="indent-first"><lb break="yes"/>Y del bronce de la imagen de <hi rend="underline">La tristeza que dura

@@ -36,7 +36,7 @@
             <sourceDesc>
                 <bibl>
                     <title/>
-                    <textLang mainLang="es" otherLangs="pt"/>
+                    <textLang mainLang="en" otherLangs="es"/>
                     <relatedItem type="translatedFrom">
                         <bibl>
                             <textLang mainLang="en"/>
@@ -48,9 +48,13 @@
             </sourceDesc>
         </fileDesc>
     </teiHeader>
-    <facsimile xml:base="ruta-de-la-carpeta-con-las-imagenes">
-        <!--Daniel, aquí se reemplaza la ruta de la carpeta destinada para conservar las imagenes-->
-        <graphic url="Pessoa-O-Artista-primeira-v.jpg" xml:id="PAP1"/> <!-- ref target="https://www.themorgan.org/collection/oscar-wilde/manuscripts-letters/13" -->
+    <facsimile>
+        <ref target="https://www.themorgan.org/collection/oscar-wilde/manuscripts-letters/6">"The House of Judgment", page 1</ref>
+        <ref target="https://www.themorgan.org/collection/oscar-wilde/manuscripts-letters/7">"The House of Judgment", page 2</ref>
+        <ref target="https://www.themorgan.org/collection/oscar-wilde/manuscripts-letters/8">"The House of Judgment", page 3</ref>
+        <ref target="https://www.themorgan.org/collection/oscar-wilde/manuscripts-letters/9">"The House of Judgment", page 4</ref>
+        <ref target="https://www.themorgan.org/collection/oscar-wilde/manuscripts-letters/10">"The House of Judgment", page 5</ref>
+        <ref target="https://www.themorgan.org/collection/oscar-wilde/manuscripts-letters/11">"The House of Judgment", page 6</ref>
     </facsimile>
     <text>
         <body>
